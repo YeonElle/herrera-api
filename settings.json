@@ -1,5 +1,5 @@
 {
-  "name": "Falcon-Api",
+  "name": "Herrera-Api",
   "version": "v1.2",
   "description": "Simple and easy to use API.",
   "bannerImage": "/src/banner.jpg",
@@ -7,7 +7,7 @@
     "status": "Online!"
   },
   "apiSettings": {
-    "creator": "FlowFalcon", 
+    "creator": "Kim-Yeon", 
     "apikey": ["falcon-api"]
   },
   "categories": [
